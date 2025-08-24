@@ -1,0 +1,9 @@
+How to print "Hello world " in C language.
+
+#include<stdio.h>
+int main (){
+
+    printf("Hello World ");
+}
+
+
